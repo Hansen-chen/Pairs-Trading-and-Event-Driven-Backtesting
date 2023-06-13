@@ -1,4 +1,4 @@
-# Interview-Task
+# Summary
 This Jupyter notebook is consist of Pairs Trading in FAANG stocks, Event Driven Backtesting and Evaluation
 
 ## Pairs Trading in FAANG stocks
