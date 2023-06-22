@@ -23,3 +23,6 @@ An Event Driven Backtesting library backtrader is used for backtesting, the back
 - A portfolio analysis library pyfolio is used for evaluating the backtesting result with different metrics
 - Backtrader's built-in function is also used for presenting a snapshot of the trades throughout the time horizon
 
+## Related Project
+[Crypto Pairs Trading and Event Driven Backtesting](https://github.com/Hansen-chen/Crypto_Pairs-Trading-and-Event-Driven-Backtesting)
+
